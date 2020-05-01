@@ -32,6 +32,14 @@ console.log('Old enozgh to drink vodka');
 
 console.log('Thisis after the if');
 
+for (let i = 0; i < 100; i = i + 1) {
+console.log(i);
+}
+
+
+
+
+
 // This is a java script comment
 
 /* This is a 
